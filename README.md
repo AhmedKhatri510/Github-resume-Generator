@@ -1,5 +1,5 @@
-This is Project is clone of GitZilla, link to Repository https://github.com/ChoukseyKhushbu/Gitzilla.
-What makes this project unique from original project is making use of simple rest Api and many other simple things.
+# This is Project is clone of GitZilla, link to Repository https://github.com/ChoukseyKhushbu/Gitzilla.
+# What makes this project unique from original project is making use of simple rest Api and many other simple things.
 
 # Getting Started with Create React App
 
